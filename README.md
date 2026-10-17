@@ -21,7 +21,7 @@ I built this repository to document my hands-on learning process, share my lab w
 - Applying for Network Operations Apprentice roles to gain hands-on field experience.
 
 ## 📬 Connect with Me
-- **Email:** Tadamjames@yahoo.com
+- **Email:** tcodes9949@gmail.com
 - **Location:** Miami, FL
 
 ---
